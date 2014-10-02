@@ -1,0 +1,4 @@
+HipsterCalculator
+=================
+
+Buggy calculator.
